@@ -31,3 +31,4 @@ This is the root folder. Folder structure as follows:
 "README.txt"			:	dude you are reading it now
 "Process Flowchart.graffle"	: source file for program process
 "Process Flowchart.pdf"	:	pdf version of the flowchart
+"requirements.txt"		:	python packages installed on my machine (not all are needed for this project)
