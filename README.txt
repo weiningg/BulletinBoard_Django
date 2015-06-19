@@ -29,3 +29,5 @@ This is the root folder. Folder structure as follows:
 	\migrations			:	DB migration files
 "manage.py"				:	main Django script engine
 "README.txt"			:	dude you are reading it now
+"Process Flowchart.graffle"	: source file for program process
+"Process Flowchart.pdf"	:	pdf version of the flowchart
