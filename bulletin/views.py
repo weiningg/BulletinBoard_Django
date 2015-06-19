@@ -14,7 +14,6 @@ def login_FB(request):
 
 # show profile of user
 def profile(request):
-	# this is a test for branching
 	return render(request, 'bulletin/profile.html')
 
 # ask for preference (filtering info) from user
