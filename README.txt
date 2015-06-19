@@ -22,6 +22,7 @@ This is the root folder. Folder structure as follows:
 	\templates
 		\bulletin 		:	all templates (views in Rails language) stay here
 			listing.html	:	bulletin listing page
+			details.html	:	bulletin details page
 			preferences.html	:	user preferences page
 			profile.html	:	user profile page
 			login.html		:	user login page

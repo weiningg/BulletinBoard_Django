@@ -19,6 +19,10 @@ def profile(request):
 def preferences(request):
 	return render(request, 'bulletin/preferences.html')
 
-# return listing
+# return bulletin listing
 def listing(request):
 	return render(request, 'bulletin/listing.html')
+
+# return bulletin details
+def details(request):
+	return render(request, 'bulletin/details.html')
