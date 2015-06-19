@@ -23,4 +23,7 @@ urlpatterns = [
 
 	# ex: /bulletin/preferences/
 	url(r'^preferences/$', views.preferences, name='preferences'), # preferences page
+
+	# ex: /bulletin/details/
+	url(r'^details/$', views.details, name="details"), # details page
 ]
