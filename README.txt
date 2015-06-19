@@ -21,6 +21,7 @@ This is the root folder. Folder structure as follows:
 			\js			:	javascripts stay here
 	\templates
 		\bulletin 		:	all templates (views in Rails language) stay here
+			base.html	:	base html for all pages
 			listing.html	:	bulletin listing page
 			details.html	:	bulletin details page
 			preferences.html	:	user preferences page
