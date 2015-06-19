@@ -5,6 +5,7 @@ from django.core.urlresolvers import reverse
 
 ## login via id & pwd pair or via cookies
 def login(request):
+	# This is a test in branch-Miles
 	return render(request, 'bulletin/login.html')
 
 # loging via FB
