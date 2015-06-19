@@ -14,6 +14,7 @@ This is the root folder. Folder structure as follows:
 	urls.py				:	url routing for bulletin
 	tests.py			:	website testers
 	utils.py			:	helper functions (view this as some customized liraries)
+	fake_data.py 		:	fake data into database
 	\static				:	folder for static resources
 		\bulletin
 			\css		:	stylesheets all stay here
@@ -27,8 +28,8 @@ This is the root folder. Folder structure as follows:
 			profile.html	:	user profile page
 			login.html		:	user login page
 	\migrations			:	DB migration files
-"manage.py"				:	main Django script engine
-"README.txt"			:	dude you are reading it now
-"Process Flowchart.graffle"	: source file for program process
-"Process Flowchart.pdf"	:	pdf version of the flowchart
-"requirements.txt"		:	python packages installed on my machine (not all are needed for this project)
+manage.py 				:	main Django script engine
+README.txt 				:	dude you are reading it now
+Process Flowchart.graffle	: source file for program process
+Process Flowchart.pdf	:	pdf version of the flowchart
+requirements.txt		:	python packages installed on my machine
