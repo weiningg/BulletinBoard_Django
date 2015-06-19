@@ -1,6 +1,6 @@
 # Use this script to fake data into the database
 import os
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tango_with_django_project.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'BulletinBoard_Django.settings')
 
 import django
 django.setup()
